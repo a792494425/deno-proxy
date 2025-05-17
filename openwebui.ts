@@ -1,6 +1,6 @@
 // 文件名: openwebui.ts
 
-const targetUrl = new URL("libabaasdasd21312asda-web.hf.space");
+const targetUrl = new URL("https://libabaasdasd21312asda-web.hf.space");
 
 async function handler(req: Request): Promise<Response> {
   const incomingUrl = new URL(req.url); // 获取访问代理的 URL
