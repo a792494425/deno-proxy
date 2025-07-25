@@ -1,6 +1,6 @@
 // 文件名: deepsearch.ts
 
-const targetUrl = new URL("https://libabaasdasd21312asda-deep-research.hf.space");
+const targetUrl = new URL("https://deep-research.a792494425.buzz");
 
 async function handler(req: Request): Promise<Response> {
   const incomingUrl = new URL(req.url); // 获取访问代理的 URL
