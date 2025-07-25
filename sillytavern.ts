@@ -1,6 +1,6 @@
 // 文件名: sillytavern.ts
 
-const targetUrl = new URL("https://de87c32a-d2d0-48f6-9951-76c940a269a5.xxworld.org");
+const targetUrl = new URL("https://sillytavern.a792494425.buzz/");
 
 async function handler(req: Request): Promise<Response> {
   const incomingUrl = new URL(req.url); // 获取访问代理的 URL
