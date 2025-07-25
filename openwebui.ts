@@ -3,8 +3,8 @@ import { serve } from "https://deno.land/std@0.224.0/http/server.ts";
 
 // --- 配置 (可以通过命令行参数或环境变量覆盖) ---
 const DEFAULT_PORT = 8080;
-const DEFAULT_TARGET_HOST = "libabaasdasd21312asda-web.hf.space";
-const DEFAULT_TARGET_SCHEME = "https";
+const DEFAULT_TARGET_HOST = "openwebui.a792494425.buzz";
+const DEFAULT_TARGET_SCHEME = "http";
 
 /**
  * 统一的日志记录函数
